@@ -1,6 +1,6 @@
 ## Hi World, I'm Lucas Gonze
 
-I build software, mostly as a product manager. I believe the best products are created in a dialogue with the market and the developers, finding a natural match between vision and possibility. I can code and I’m good with data. I love UX. I can manage engineers and lead Agile teams. Early in my career, I was in QA. All of it is relevant.
+I build software, mostly as a product manager. I believe products should flow from dialogue with the market and the developers, finding a natural match between vision and possibility. I can code and I’m good with data. I love UX. I can manage engineers and lead Agile teams. Early in my career, I was in QA. All of it is relevant.
 
 Lately I'm working on [Merico Build](https://merico.build). It's a super interesting project. 
 
