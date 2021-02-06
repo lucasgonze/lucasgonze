@@ -1,8 +1,6 @@
 ## Hi World, I'm Lucas Gonze
 
-I build software, mostly as a product manager. I believe products should flow from dialogue with the market and the developers, finding a natural match between vision and possibility. I can code and I’m good with data. I love UX. I can manage engineers and lead Agile teams. Early in my career, I was in QA. All of it is relevant.
-
-Lately I'm working on [Merico Build](https://merico.build). It's a super interesting project. 
+Lately I'm working on [Merico Build](https://merico.build), where I'm a technical PM thinking a lot about OSS in the time of social media. 
 
 My most recent open source contributions were to [The COVID Tracking Project](https://github.com/orgs/COVID19Tracking/dashboard). The biggest thing I have been a maintainer for is [XSPF](http://xspf.org).
 
