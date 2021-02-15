@@ -8,7 +8,5 @@ The best way to reach me is email to lucas@gonze.com. Tweets are [@lucas_gonze](
 
 In my private life I make music, and since a lot of it is in the public domain I post [my transcriptions here on Github](https://duckduckgo.com/?q=site%3Agithub.com+lucasgonze+music&ia=web) using open formats like Lilypond and Musescore.
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=lucasgonze&show_icons=true)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">![My github stats](https://github-readme-stats.vercel.app/api?username=lucasgonze&show_icons=true)</a>
 
