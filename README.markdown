@@ -10,5 +10,5 @@ In my private life I make music, and since a lot of it is in the public domain I
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=lucasgonze&show_icons=true)
 
-<a href="https://google.com">![My github stats](https://github-readme-stats.vercel.app/api?username=lucasgonze&show_icons=true)</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">![My github stats](https://github-readme-stats.vercel.app/api?username=lucasgonze&show_icons=true)</a>
 
