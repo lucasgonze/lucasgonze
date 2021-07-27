@@ -1,6 +1,6 @@
 ## Hi World, I'm Lucas Gonze
 
-My most recent open source contributions were to [The COVID Tracking Project](https://github.com/orgs/COVID19Tracking/dashboard). The biggest thing I have been a maintainer for is [XSPF](http://xspf.org).
+My most recent open source contributions, big and small, were to [CHAOSS](https://chaoss.info/), [Merico Build](https://github.com/merico-dev/build), and [The COVID Tracking Project](https://github.com/orgs/COVID19Tracking/dashboard). The biggest thing I have maintained for is [XSPF](http://xspf.org).
 
 The best way to reach me is email to lucas@gonze.com. Tweets are [@lucas_gonze](https://twitter.com/lucas_gonze). [My LinkedIn](https://www.linkedin.com/in/lucasgonze/) might be what you're looking for. For encrypted messaging, use lucasgonze on Keybase or lucasgonze@protonmail.ch.
 
