@@ -1,6 +1,6 @@
 ## Hi World, I'm Lucas Gonze
 
-I'm a technical product manager with a love of open source. My most recent contributions, big or small, paid or unpaid, were to [Magma](magmacore.org/), [XSPF](https://gitlab.xiph.org/xiph/xspf-website), [CHAOSS](https://chaoss.info/), [Merico Build](https://github.com/merico-dev/build), and [The COVID Tracking Project](https://github.com/orgs/COVID19Tracking/dashboard).
+I'm a technical product manager with a love of open source. My most recent contributions, big or small, paid or unpaid, were to [Storybook](https://github.com/storybookjs/storybook), [Magma](magmacore.org/), [XSPF](https://gitlab.xiph.org/xiph/xspf-website), [CHAOSS](https://chaoss.info/), [Merico Build](https://github.com/merico-dev/build), and [The COVID Tracking Project](https://github.com/orgs/COVID19Tracking/dashboard).
 
 The best way to reach me is email to lucas@gonze.com. Tweets are [@lucas_gonze](https://twitter.com/lucas_gonze). [My LinkedIn](https://www.linkedin.com/in/lucasgonze/) might be what you're looking for. For secure messaging, use lucasgonze on Keybase or lucasgonze@protonmail.ch.
 
