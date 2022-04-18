@@ -1,6 +1,6 @@
 ## Hi World, I'm Lucas Gonze
 
-I'm a TPM with long involvement in open source. I make my living working on [Magma](magmacore.org/) for [OSPOCO](https://github.com/ospoco/). My most recent contributions, big or small, paid or unpaid, were to [OWASP](https://github.com/OWASP/CheatSheetSeries/), [fbjs](https://github.com/facebook/fbjs), [Storybook](https://github.com/storybookjs/storybook), [XSPF](https://gitlab.xiph.org/xiph/xspf-website), [CHAOSS](https://chaoss.info/), [Merico Build](https://github.com/merico-dev/build), and [The COVID Tracking Project](https://github.com/orgs/COVID19Tracking/dashboard).
+I'm a TPM with long involvement in open source. I make my living working on [Magma](magmacore.org/) for [OSPOCO](https://github.com/ospoco/). My most recent contributions, big or small, paid or unpaid, were to [OWASP](https://github.com/OWASP/CheatSheetSeries/), [fbjs](https://github.com/facebook/fbjs), [Storybook](https://github.com/storybookjs/storybook), [XSPF](https://gitlab.xiph.org/xiph/xspf-website), [CHAOSS](https://chaoss.info/), [Merico Build](https://github.com/merico-dev/build), and [The COVID Tracking Project](https://github.com/orgs/COVID19Tracking/dashboard). I'm also contributing to the [Metadata for Music NFTs](https://github.com/lucasgonze/Music-NFT-Metadata-Proposal) WG.
 
 The best way to reach me is email to lucas@gonze.com. Tweets are [@lucas_gonze](https://twitter.com/lucas_gonze). [My LinkedIn](https://www.linkedin.com/in/lucasgonze/) might be what you're looking for. For secure email, use lucasgonze@protonmail.ch.
 
