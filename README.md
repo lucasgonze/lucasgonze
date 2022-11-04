@@ -7,7 +7,7 @@ Contact Points:
 - Blog: [writing.gonze.com](https://writing.gonze.com/)
 - Mastodon: [indieweb.social/@lucasgonze](https://indieweb.social/@lucasgonze)
 - LinkedIn: [linkedin.com/in/lucasgonze/](https://www.linkedin.com/in/lucasgonze/)
-- Twitter: [@lucasgonze](twitter.com/lucas_gonze) <-- mostly abandoned
+- Twitter: [@lucasgonze](https://twitter.com/lucas_gonze) <-- mostly abandoned
 - Facebook: [Lucas Gonze](https://www.facebook.com/lucasgonze) <-- don't expect a fast response
 
 In my private life I make music, and since a lot of it is in the public domain I post [my transcriptions here on Github](https://duckduckgo.com/?q=site%3Agithub.com+lucasgonze+music&ia=web) using open formats like Lilypond and Musescore.
