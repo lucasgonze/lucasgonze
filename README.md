@@ -2,7 +2,7 @@
 
 I'm a TPM with long involvement in open source. I make my living as an OSPO advisor for corporate clients including New Relic, Toyota Motors North America, and Meta.  My most recent contributions - big and small, paid and unpaid - were to [OpenChain](https://github.com/OpenChain-Project), [pin-github-action](https://github.com/mheap/pin-github-action), [OWASP](https://github.com/OWASP/CheatSheetSeries/), [Magma](magmacore.org/), [fbjs](https://github.com/facebook/fbjs), [Storybook](https://github.com/storybookjs/storybook), [XSPF](https://gitlab.xiph.org/xiph/xspf-website), [CHAOSS](https://chaoss.info/), [Merico Build](https://github.com/merico-dev/build), and [The COVID Tracking Project](https://github.com/orgs/COVID19Tracking/dashboard).
 
-The best way to reach me is email to lucas@gonze.com. I blog at [writing.gonze.com](https://writing.gonze.com/). Tweets are [@lucas_gonze](https://twitter.com/lucas_gonze). [My LinkedIn](https://www.linkedin.com/in/lucasgonze/) might be what you're looking for.
+The best way to reach me is email to lucas@gonze.com. I blog at [writing.gonze.com](https://writing.gonze.com/). Mastodon is [https://indieweb.social/@lucasgonze]. [My LinkedIn](https://www.linkedin.com/in/lucasgonze/) might be what you're looking for.
 
 In my private life I make music, and since a lot of it is in the public domain I post [my transcriptions here on Github](https://duckduckgo.com/?q=site%3Agithub.com+lucasgonze+music&ia=web) using open formats like Lilypond and Musescore.
 
