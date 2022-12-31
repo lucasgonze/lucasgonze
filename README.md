@@ -5,9 +5,9 @@ I'm a TPM with career-long involvement in open source. I make my living advising
 Contact Points:
 - Email: [lucas@gonze.com](mailto:lucas@gonze.com)
 - Blog: [writing.gonze.com](https://writing.gonze.com/)
-- Mastodon: [indieweb.social/@lucasgonze](https://indieweb.social/@lucasgonze)
+- Mastodon: <a rel="me" href="https://indieweb.social/@lucasgonze">@lucasgonze@indieweb.social</a>
 - LinkedIn: [linkedin.com/in/lucasgonze/](https://www.linkedin.com/in/lucasgonze/)
-- Twitter: [@lucasgonze](https://twitter.com/lucas_gonze) <-- I'm trying to kick this habit
+- Twitter: [@lucasgonze](https://twitter.com/lucas_gonze) <-- stale
 - Facebook: [Lucas Gonze](https://www.facebook.com/lucasgonze) <-- don't expect a fast response
 
 In my private life I make music, and since a lot of it is in the public domain I post [my transcriptions here on Github](https://duckduckgo.com/?q=site%3Agithub.com+lucasgonze+music&ia=web) using open formats like Lilypond and Musescore.
