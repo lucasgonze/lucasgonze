@@ -17,5 +17,5 @@ In my private life I make music, and since a lot of it is in the public domain I
 Mobile-friendly loader for this page:<br>
 <img src="https://github.com/lucasgonze/lucasgonze/blob/f96e7ae286da255a571e049213adf8ff0c391fd6/github-lucagonze-QR-code.jpg" alt="QR code for github.com/lucasgonze" height="150">
 
-A cool but still raw stats visualizer from a startup:
+A cool little visualizer from [a startup](https://quine.sh/):<br>
 [![lucasgonze's GitHub | Stats](https://stats.quine.sh/lucasgonze/github?theme=light)](https://quine.sh)
