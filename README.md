@@ -12,10 +12,10 @@ Contact Points:
 
 In my private life I make music, and since a lot of it is in the public domain I post [my transcriptions here on Github](https://duckduckgo.com/?q=site%3Agithub.com+lucasgonze+music&ia=web) using open formats like Lilypond and Musescore.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">![My github stats](https://github-readme-stats.vercel.app/api?username=lucasgonze&show_icons=true)</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">![My github stats](https://github-readme-stats.vercel.app/api?username=lucasgonze&show_icons=true)</a><small>[*!](https://github.com/anuraghazra/github-readme-stats)
 
 Mobile-friendly loader for this page:<br>
 <img src="https://github.com/lucasgonze/lucasgonze/blob/f96e7ae286da255a571e049213adf8ff0c391fd6/github-lucagonze-QR-code.jpg" alt="QR code for github.com/lucasgonze" height="150">
 
-A cool little visualizer from [a startup](https://quine.sh/):<br>
+A visualizer from [a cool startup](https://quine.sh/):<br>
 [![lucasgonze's GitHub | Stats](https://stats.quine.sh/lucasgonze/github?theme=light)](https://quine.sh)
