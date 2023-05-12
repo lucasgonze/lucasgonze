@@ -10,7 +10,7 @@ Contact Points:
 - Twitter: [@lucasgonze](https://twitter.com/lucas_gonze) <-- stale
 - Facebook: [Lucas Gonze](https://www.facebook.com/lucasgonze) <-- don't expect a fast response
 
-I post [musical transcriptions here on Github]([https://duckduckgo.com/?q=site%3Agithub.com+lucasgonze+music&ia=web](https://duckduckgo.com/?q=site%3Agithub.com+lucasgonze+%22sheet+music%22&ia=web)) using open formats like Lilypond and Musescore.
+I post [musical transcriptions here on Github](https://duckduckgo.com/?q=site%3Agithub.com+lucasgonze+%22sheet+music%22&ia=web) using open formats like Lilypond and Musescore.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">![My github stats](https://github-readme-stats.vercel.app/api?username=lucasgonze&show_icons=true)</a><small>[*!](https://github.com/anuraghazra/github-readme-stats)
 
