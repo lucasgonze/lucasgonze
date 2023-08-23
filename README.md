@@ -17,6 +17,13 @@ I post [musical transcriptions here on Github](https://duckduckgo.com/?q=site%3A
 Mobile-friendly loader for this page:<br>
 <img src="https://github.com/lucasgonze/lucasgonze/blob/f96e7ae286da255a571e049213adf8ff0c391fd6/github-lucagonze-QR-code.jpg" alt="QR code for github.com/lucasgonze" height="150">
 
+[Vaunt.dev stats](https://docs.vaunt.dev/features/developer_cards):
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/{{github_username}}/contributions?format=svg" width="350" />
+    </a>
+</p>
+
 [Quine](https://quine.sh/) visualizers:<br>
 [![lucasgonze's GitHub | Topics](https://stats.quine.sh/lucasgonze/topics-over-time?theme=light)](https://quine.sh)
 [![lucasgonze's GitHub | Stats](https://stats.quine.sh/lucasgonze/github?theme=light)](https://quine.sh)
