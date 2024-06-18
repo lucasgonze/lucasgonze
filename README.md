@@ -9,6 +9,7 @@ Contact Points:
 - LinkedIn: [linkedin.com/in/lucasgonze/](https://www.linkedin.com/in/lucasgonze/)
 - Twitter: [@lucasgonze](https://twitter.com/lucas_gonze) <-- stale
 - Facebook: [Lucas Gonze](https://www.facebook.com/lucasgonze) <-- don't expect a fast response
+- Music: [playingintongues.com](https://playingintongues.com/)
 
 I post [musical transcriptions here on Github](https://duckduckgo.com/?q=site%3Agithub.com+lucasgonze+%22sheet+music%22&ia=web) using open formats like Lilypond and Musescore.
 
