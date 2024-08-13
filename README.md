@@ -5,7 +5,6 @@ I am the Security TPM and a member of the Technical Steering Committee  for [Mag
 Contact Points:
 - Email: [lucas@gonze.com](mailto:lucas@gonze.com)
 - Blog: [writing.gonze.com](https://writing.gonze.com/)
-- Mastodon: <a rel="me" href="https://indieweb.social/@lucasgonze">@lucasgonze@indieweb.social</a>
 - LinkedIn: [linkedin.com/in/lucasgonze/](https://www.linkedin.com/in/lucasgonze/)
 - Twitter: [@lucasgonze](https://twitter.com/lucas_gonze) <-- stale
 - Facebook: [Lucas Gonze](https://www.facebook.com/lucasgonze) <-- don't expect a fast response
