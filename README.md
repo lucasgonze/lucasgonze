@@ -11,7 +11,7 @@ Contact Points:
 
 I post [musical transcriptions here on Github](https://duckduckgo.com/?q=site%3Agithub.com+lucasgonze+%22sheet+music%22&ia=web) using open formats like Lilypond and Musescore.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">![My github stats](https://github-readme-stats.vercel.app/api?username=lucasgonze&show_icons=true)</a><small>[*!](https://github.com/anuraghazra/github-readme-stats)
+[![*](https://github-stats-extended.vercel.app/api?username=lucasgonze)](https://github.com/stats-organization/github-stats-extended)
 
 Mobile-friendly loader for this page:<br>
 <img src="https://github.com/lucasgonze/lucasgonze/blob/f96e7ae286da255a571e049213adf8ff0c391fd6/github-lucagonze-QR-code.jpg" alt="QR code for github.com/lucasgonze" height="150">
